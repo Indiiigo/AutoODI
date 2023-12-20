@@ -20,4 +20,4 @@ The aggregated data is in the data folder, while the code (with a corresponding 
 
 Sen, I., Quercia, D., Constantinides, M., Montecchi, M., Capra, L., Scepanovic, S., & Bianchi, R. (2022). `Depression at work: exploring depression in major US companies from online reviews.` **Proceedings of the ACM on Human-Computer Interaction, 6(CSCW2), 1-21.** [[pdf](https://dl.acm.org/doi/pdf/10.1145/3555539)]
 
-contact indira.sen@gesis.org for questions.
+contact indira.sen@rwth-aachen.de for questions.
